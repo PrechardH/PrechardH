@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me +263785080042
+- 📫 How to reach me +263783462395
 
 <!---
 PrechardH/PrechardH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
